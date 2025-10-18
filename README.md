@@ -1,8 +1,8 @@
 <div align="center">
   <img <img width="440" height="122" alt="image" src="https://github.com/user-attachments/assets/83fd7de3-fd83-482c-9794-40b5e00a478e" />
-  />
 </div>
 
+---
 
 <p align="left">
 Somos uma empresa de desenvolvimento de software que atua no mercado digital, ajudando a impulsionar o seu negócio por meio da tecnologia. 
