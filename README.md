@@ -1,11 +1,9 @@
 <div align="center">
-  <img <img width="440" height="122" alt="image" src="https://github.com/user-attachments/assets/83fd7de3-fd83-482c-9794-40b5e00a478e" />
+  <img width="440" height="122" alt="image" src="https://github.com/user-attachments/assets/83fd7de3-fd83-482c-9794-40b5e00a478e" />
 </div>
 
----
+<h1 align="center">Olá! Somos a <span style="color:red">Createc</span></h1>
 
-<h1 style="border-bottom:none" align="center">Olá! Somos a <span style="color:red" >Createc </span></h1>
-<br/>
 <p align="left">
 Somos uma empresa de desenvolvimento de software que atua no mercado digital, ajudando a impulsionar o seu negócio por meio da tecnologia. 
 Desenvolvemos softwares sob medida, sites profissionais e realizamos <strong>pentests</strong> para garantir a segurança das suas aplicações.
