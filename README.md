@@ -1,10 +1,5 @@
 <div align="center">
-  <img 
-    src="https://createc.com.br/arts/landing-page-logo.png" 
-    alt="Logo da Createc" 
-    height="250" 
-    width="500"
-    style="max-width:100%; height:auto;"
+  <img <img width="940" height="432" alt="image" src="https://github.com/user-attachments/assets/83fd7de3-fd83-482c-9794-40b5e00a478e" />
   />
 </div>
 
